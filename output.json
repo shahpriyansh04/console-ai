@@ -1,0 +1,125 @@
+{
+  "gender": "Male",
+  "age": 21,
+  "reportDate": "02 Dec, 2X",
+  "reportTime": "04:35 PM",
+  "name": "Yash M.Patel",
+  "refBy": "Dr. Hiren Shah",
+  "testName": "Complete Blood Count (CBC) with Absolute Count",
+  "results": [
+    {
+      "testName": "Hemoglobin (Hb)",
+      "result": 12.5,
+      "units": "g/dL",
+      "bioRefInterval": "13.0-17.0"
+    },
+    {
+      "testName": "Total RBC count",
+      "result": 5.2,
+      "units": "mill/cumm",
+      "bioRefInterval": "4.5-5.5"
+    },
+    {
+      "testName": "Packed Cell Volume (PCV)",
+      "result": 57.5,
+      "units": "%",
+      "bioRefInterval": "40-50"
+    },
+    {
+      "testName": "Mean Corpuscular Volume (MCV)",
+      "result": 87.75,
+      "units": "fL",
+      "bioRefInterval": "83-101"
+    },
+    {
+      "testName": "MCH",
+      "result": 27.2,
+      "units": "pg",
+      "bioRefInterval": "27 - 32"
+    },
+    {
+      "testName": "MCHC.",
+      "result": 32.8,
+      "units": "g/dL",
+      "bioRefInterval": "32.5 - 34.5"
+    },
+    {
+      "testName": "RDW",
+      "result": 13.6,
+      "units": "%",
+      "bioRefInterval": "11.6 - 14.0"
+    },
+    {
+      "testName": "Total WBC count",
+      "result": 9000,
+      "units": "cumm",
+      "bioRefInterval": "4000-11000"
+    },
+    {
+      "testName": "Neutrophils",
+      "result": 60,
+      "units": "%",
+      "bioRefInterval": "50 - 62"
+    },
+    {
+      "testName": "Lymphocytes",
+      "result": 31,
+      "units": "%",
+      "bioRefInterval": "20-40"
+    },
+    {
+      "testName": "Eosinophils",
+      "result": 1,
+      "units": "%",
+      "bioRefInterval": "00 - 06"
+    },
+    {
+      "testName": "Monocytes",
+      "result": 7,
+      "units": "%",
+      "bioRefInterval": "00-10"
+    },
+    {
+      "testName": "Basophils",
+      "result": 1,
+      "units": "%",
+      "bioRefInterval": "00 - 02"
+    },
+    {
+      "testName": "Absolute Neutrophils",
+      "result": 6000,
+      "units": "cells/mcL",
+      "bioRefInterval": "1500 - 7500"
+    },
+    {
+      "testName": "Absolute Lymphocytes",
+      "result": 3100,
+      "units": "cells/mcL",
+      "bioRefInterval": "1300 - 3500"
+    },
+    {
+      "testName": "Absolute Eosinophils",
+      "result": 100,
+      "units": "cells/mcL",
+      "bioRefInterval": "00 - 500"
+    },
+    {
+      "testName": "Absolute Monocytes",
+      "result": 700,
+      "units": "cells/mcL",
+      "bioRefInterval": "200 - 950"
+    },
+    {
+      "testName": "Absolute Basophils",
+      "result": 100,
+      "units": "cells/mcL",
+      "bioRefInterval": "00 - 300"
+    },
+    {
+      "testName": "Platelet Count",
+      "result": 320000,
+      "units": "cumm",
+      "bioRefInterval": "150000 - 410000"
+    }
+  ]
+}
